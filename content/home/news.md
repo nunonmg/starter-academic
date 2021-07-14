@@ -3,10 +3,8 @@ widget: blank
 headless: true
 weight: 30
 title: News
-subtitle: null
-feature:
-  - Explainable NLP
-  - Structured Prediction
-  - Latent Variable Models
+subtitle: null  
 widget_id: News
 ---
+
+* Started my PhD 
