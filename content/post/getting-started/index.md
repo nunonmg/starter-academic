@@ -33,7 +33,7 @@ authors:
 - 吳恩達
 
 tags:
-- Academic
+- Nuno M Guerreiro
 - 开源
 
 categories:
