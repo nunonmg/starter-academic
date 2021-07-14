@@ -1,6 +1,6 @@
 ---
 role: PhD Student in Computer Science
-avatar_filename: circle-croped.png
+avatar_filename: circle-cropped.png
 bio: ""
 interests:
   - Explainable NLP
