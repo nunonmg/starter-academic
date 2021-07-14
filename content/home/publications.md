@@ -2,14 +2,14 @@
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-
+widget_id: publications
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
 weight: 40
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 content:
