@@ -29,7 +29,15 @@ experience:
     date_start: '2020-09-01'
     date_end: ''
     description: |2-
-        PhD student in the Eletric and Computer Science Department supervised by André Martins and Mário Figueiredo.
+        PhD student in the Eletric and Computer Science Department supervised by André Martins and Mário Figueiredo. Research on NLP framed on the objectives of the [MAIA](https://www.cmuportugal.org/large-scale-collaborative-research-projects/maia/) Project in the scope of the CMU Portugal program.
+
+  - title: Invited Professor
+    company: NOVA IMS Information Management School
+    company_url: ''
+    location: Lisbon, Portugal
+    date_start: '2020-01-01'
+    date_end: '2020-09-01'
+    description: Taught a course on Natural Language Processing to MSc students of the Data Science and Advanced Analytics program.
         
   - title: AI Engineer Intern
     company: Unbabel
@@ -37,14 +45,14 @@ experience:
     location: Lisbon, Portugal
     date_start: '2019-11-01'
     date_end: '2020-05-01'
-    description: Interning at the Labs Team. I mainly focused on text generation and punctuation/capitalization restoration.
+    description: Interning at the Labs Team. I mainly focused on text generation, transfer learning and transcription enrichment.
 
   - title: Vice-President of the School's Pedagogical Council
     company: Instituto Superior Técnico, University of Lisbon
     company_url: ''
     location: Lisbon, Portugal
-    date_start: '2020-09-01'
-    date_end: ''
+    date_start: '2017-01-01'
+    date_end: '2019-02-01'
     description: |2-
         Elected by the students of IST to hold a consultive and executive position at the school.
 
