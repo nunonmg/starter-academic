@@ -5,13 +5,13 @@ name = "Minimal"
 light = true
 
 # Primary
-primary = "#6DB5CA"
+primary = "#0f4c81"
 
 # Menu
 menu_primary = "#fff"
-menu_text = "#B8D8E0"
-menu_text_active = "#6D85CA"
-menu_title = "#FF7235"
+menu_text = "#0f4c81"
+menu_text_active = "#0f4c81"
+menu_title = "#0f4c81"
 link = "0d7680"
 link_hover = "0d7680"
 
