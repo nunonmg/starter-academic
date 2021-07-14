@@ -35,4 +35,4 @@ highlight_name: false
 title: Nuno M Guerreiro
 email: ""
 ---
-I'm a first year PhD student in Computer Science with Professor André Martins at University of Lisbon. My main research focus is Explainable NLP, more particularly in finding structured explanations for models' decisions. In my free time, I practice tennis multiple times a week and I love reading books varying from non-fiction to classics.
+I'm a first year PhD student in Computer Science with Professor André Martins at University of Lisbon. My main research focus is Explainable NLP, more particularly in finding structured explanations for models' decisions. In my free time, I practice tennis 🎾 and I love reading books 📚 varying from non-fiction to classics.
