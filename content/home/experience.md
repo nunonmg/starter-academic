@@ -29,7 +29,7 @@ experience:
     date_start: '2020-09-01'
     date_end: ''
     description: |2-
-        PhD student in the Eletric and Computer Science Department supervised by André Martins and Mário Figueiredo. Research on NLP framed on the objectives of the [MAIA](https://www.cmuportugal.org/large-scale-collaborative-research-projects/maia/) Project in the scope of the CMU Portugal program.
+        PhD student in the Electric and Computer Science Department supervised by André Martins and Mário Figueiredo. Research on NLP framed on the objectives of the [MAIA](https://www.cmuportugal.org/large-scale-collaborative-research-projects/maia/) Project in the scope of the CMU Portugal program.
 
   - title: Invited Professor
     company: NOVA IMS Information Management School
