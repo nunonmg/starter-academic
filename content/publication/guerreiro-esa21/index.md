@@ -42,6 +42,6 @@ featured: true
 url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0957417421011180'
 url_code: 'https://github.com/Unbabel/caption'
 ---
-
+Published in August 2020 • Expert Systems with Applications
 
 
