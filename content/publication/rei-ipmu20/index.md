@@ -14,7 +14,6 @@ author_notes:
 - "Equal contribution"
 
 date: "2020-05-06"
-show_date: True
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-05-06T00:00:00Z"
@@ -32,6 +31,8 @@ publication_short: In *IPMU 2020*
 abstract: This paper describes an approach for automatic capitalization of text without case information, such as spoken transcripts of video subtitles, produced by automatic speech recognition systems. Our approach is based on pre-trained contextualized word embeddings, requires only a small portion of data for training when compared with traditional approaches, and is able to achieve state-of-the-art results. The paper reports experiments both on general written data from the European Parliament, and on video subtitles, revealing that the proposed approach is suitable for performing capitalization, not only in each one of the domains, but also in a cross-domain scenario. We have also created a versatile multilingual model, and the conducted experiments show that good results can be achieved both for monolingual and multilingual data. Finally, we applied domain adaptation by finetuning models, initially trained on general written data, on video subtitles, revealing gains over other approaches not only in performance but also in terms of computational cost.
 
 tags: []
+
+show_date: true
 
 # Display this page in the Featured widget?
 featured: true
