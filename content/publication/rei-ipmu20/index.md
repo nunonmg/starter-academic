@@ -14,7 +14,6 @@ author_notes:
 - "Equal contribution"
 
 date: "2020-06-05T00:00:00Z"
-doi: "https://doi.org/10.1016/j.eswa.2021.115740"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-06-05T00:00:00Z"
@@ -42,7 +41,6 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-030-50146-4_52'
-url_code: 'https://github.com/Unbabel/caption'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -53,23 +51,11 @@ url_code: 'https://github.com/Unbabel/caption'
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
