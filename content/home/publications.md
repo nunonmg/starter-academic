@@ -6,7 +6,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 70
 
 title: Publications
 subtitle: ''
@@ -35,7 +35,3 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
