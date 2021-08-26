@@ -5,8 +5,8 @@ title: "Automatic Truecasing of Video Subtitles Using BERT: A Multilingual Adapt
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
 - Ricardo Rei
+- admin
 - Fernando Baptista
 
 author_notes:
@@ -14,6 +14,7 @@ author_notes:
 - "Equal contribution"
 
 date: "2020-05-06"
+show_date: True
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-05-06T00:00:00Z"
