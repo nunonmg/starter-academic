@@ -1,5 +1,5 @@
 ---
-title: "Towards better subtitles: A multilingual approach for punctuationrestoration of speech transcripts"
+title: "Towards better subtitles: A multilingual approach for punctuation restoration of speech transcripts"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -39,12 +39,6 @@ featured: true
 
 url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0957417421011180'
 url_code: 'https://github.com/Unbabel/caption'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
