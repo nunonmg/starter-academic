@@ -23,12 +23,7 @@ publication_types: ["2"]
 publication: In The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021)
 publication_short: In *EMNLP 2021*
 
-abstract: Selective rationalization aims to produce decisions along with  rationales (e.g., text highlights or word alignments between two sentences).
-Commonly, rationales are modeled as stochastic binary masks, requiring sampling-based gradient estimators, which complicates training and requires careful hyperparameter tuning.
-Sparse attention mechanisms are a deterministic alternative, but they lack a way to regularize the rationale extraction (e.g., to control the sparsity of a text highlight or the number of  alignments).
-In this paper, we present a unified framework for deterministic extraction of structured explanations via constrained inference on a factor graph, forming a differentiable layer.
-Our approach greatly eases training and rationale regularization,  generally outperforming previous work on what comes to performance and plausibility of the extracted rationales.
-We further provide a comparative study of stochastic and deterministic methods for rationale extraction for classification and natural language inference tasks, jointly assessing their predictive power, quality of the explanations, and model variability.
+abstract: Selective rationalization aims to produce decisions along with  rationales (e.g., text highlights or word alignments between two sentences). Commonly, rationales are modeled as stochastic binary masks, requiring sampling-based gradient estimators, which complicates training and requires careful hyperparameter tuning. Sparse attention mechanisms are a deterministic alternative, but they lack a way to regularize the rationale extraction (e.g., to control the sparsity of a text highlight or the number of  alignments). In this paper, we present a unified framework for deterministic extraction of structured explanations via constrained inference on a factor graph, forming a differentiable layer. Our approach greatly eases training and rationale regularization,  generally outperforming previous work on what comes to performance and plausibility of the extracted rationales. We further provide a comparative study of stochastic and deterministic methods for rationale extraction for classification and natural language inference tasks, jointly assessing their predictive power, quality of the explanations, and model variability.
 
 
 tags: []
