@@ -8,7 +8,7 @@ authors:
 - admin
 - André F. T. Martins
 
-date: "2021-11-07T00:00:00Z"
+date: "2021-08-20T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-11-07T00:00:00Z"
