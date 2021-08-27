@@ -9,7 +9,7 @@ headless: true
 weight: 40
 
 title: Selected Publications
-subtitle: ''
+subtitle: 'See all [publications](./publication/).'
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -36,4 +36,4 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
-See all [publications](./publication/).
+

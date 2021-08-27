@@ -12,7 +12,7 @@ social:
     link: /#miguelguerreironuno@gmail.com
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/nunonmg
   - icon: github
     icon_pack: fab
     link: https://github.com/nunonmg
