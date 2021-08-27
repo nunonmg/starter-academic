@@ -32,7 +32,7 @@
 
 <style>
   .bottom-three {
-     margin-bottom: 3cm;
+     margin-bottom: 1cm;
   }
 </style>
 
@@ -75,10 +75,11 @@
     </div>
 
     {{ if $show_buttons }}
+    <div class="btn-links">
+      {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+    </div>
     <p class="bottom-three">
-      <div class="btn-links">
-        {{ partial "page_links" (dict "page" $item "is_list" 1) }}
-      </div>
+      
     </p>
     {{ end }}
 
