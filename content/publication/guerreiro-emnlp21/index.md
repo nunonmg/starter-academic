@@ -39,7 +39,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'http://arxiv.org/abs/2109.04552'
+url_code: 'https://github.com/deep-spin/spectra-rationalization'
 ---
 
