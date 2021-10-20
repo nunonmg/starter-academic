@@ -40,6 +40,6 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'http://arxiv.org/abs/2109.04552'
-url_code: 'https://github.com/deep-spin/spectra-rationalization'
+url_code: 'https://github.com/deep-spin/spectra-rationalization '
 ---
 
