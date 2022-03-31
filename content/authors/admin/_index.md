@@ -1,5 +1,5 @@
 ---
-role: PhD Student in Computer Science
+role: PhD Student in NLP and Machine Learning
 avatar_filename: avatar.jpg
 bio: ""
 interests:
@@ -35,4 +35,4 @@ highlight_name: false
 title: Nuno M Guerreiro
 email: ""
 ---
-I'm a first year PhD student in Computer Science with Professor [André Martins](https://andre-martins.github.io/) at University of Lisbon. My main research focus is Explainable NLP, more particularly in finding structured explanations for models' decisions. In my free time, I practice tennis 🎾 and I love reading books 📚 varying from non-fiction to classics.
+I'm a PhD student in Computer Science and Eletrical Engineering with Professor [André Martins](https://andre-martins.github.io/) at University of Lisbon. My main research focus is the intersection of machine learning and natural language processing. In my free time, I practice tennis 🎾!
