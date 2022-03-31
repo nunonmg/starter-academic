@@ -126,3 +126,7 @@ cms:
 icon:
   pack:
     ai: true
+security:
+  csp:
+    policy: ''
+    report_only: false
