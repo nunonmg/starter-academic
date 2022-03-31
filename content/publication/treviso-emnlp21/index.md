@@ -6,7 +6,7 @@ title: "IST-Unbabel 2021 Submission for the Explainable Quality Estimation Share
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Marcos V. Treviso
-- admin
+- *admin*
 - Ricardo Rei
 - André F. T. Martins
 

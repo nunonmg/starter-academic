@@ -6,7 +6,7 @@ title: "Automatic Truecasing of Video Subtitles Using BERT: A Multilingual Adapt
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Ricardo Rei
-- admin
+- *admin*
 - Fernando Baptista
 
 author_notes:
